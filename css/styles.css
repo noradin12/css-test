@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;    /* Vi sätter 0 på top/ bottom och auto på left/right*/
+                       /* Vi sätter på bredd på webbsidan till 600px*/ 
+                       /* vi sätter en standard på text-storlek till 16px*/
+    
+    
+    
+    
+    width: 600px;
+}
+
+h1{
+    text-align: center;   /* vi centrerar texten*/
+    font-size: 450%;      /* vi sätter en text-storlek till 450% av vår standard*/
+   color: burlywood;      /* vi sätter en textfärg till brun(hexkod)*/
+   border-bottom: 2px solid black; /* vi skapar en border på undersidan, 2px tjock,solid och svartfärg*/
+}
+
+}
+
+p{ /*selektor för paragraf*/
+   font-size: 120%;       /* vi sätter en text-storlek till 120% av vår standard*/
+    padding: 0 20px;      /* vi sätter en padding på 0 i top/bottom och 20 på
+    text-align: justify;  /* vi sätter justify som text-align.(bakar ut text
+
+      
+ li{  /*selektor för varje li-element
+    float: left;
+    margin-left:40px;
+}
